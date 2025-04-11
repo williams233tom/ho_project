@@ -1,0 +1,19 @@
+{
+  "routerMap": [
+    {
+      "name": "details",
+      "pageSourceFile": "src/main/ets/pages/Details.ets",
+      "buildFunction": "DetailsBuilder"
+    },
+    {
+      "name": "mainPage",
+      "pageSourceFile": "src/main/ets/pages/MainPage.ets",
+      "buildFunction": "MainPageBuilder"
+    },
+    {
+      "name": "test",
+      "pageSourceFile": "src/main/ets/component/Test.ets",
+      "buildFunction": "TestBuilder"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#FDFBEE"
+    },
+    {
+      "name": "lightblue",
+      "value": "#57B4BA"
+    },
+    {
+      "name": "deepblue",
+      "value": "#015551"
+    },
+    {
+      "name": "orange",
+      "value": "#FE4F2D"
+    },
+    {
+      "name": "totalWhite",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "backWhite",
+      "value": "#f1f3f5"
+    },
+    {
+      "name": "pink",
+      "value": "#FFC1B4"
+    },
+    {
+      "name": "darkBlue",
+      "value": "#143D60"
+    },
+    {
+      "name": "grassGreen",
+      "value": "#DDEB9D"
+    },
+    {
+      "name": "red",
+      "value": "#BF3131"
+    },
+    {
+      "name": "lightPurple",
+      "value": "#CCCCFF"
+    }
+  ]
+}
